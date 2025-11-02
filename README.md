@@ -67,7 +67,3 @@ It reminded me that healing takes time, but it’s possible, and beauty can stil
 To this day, it remains one of the most meaningful anime I’ve ever watched.
 
 ---
-
-## 📷 Gallery
-```markdown
-![Violet Evergarden](https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Violet_Evergarden_Key_Visual.jpg/220px-Violet_Evergarden_Key_Visual.jpg)
